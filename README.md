@@ -2,7 +2,11 @@
 
 ## regenerator-runtime resolved
 
-clone or download Repository
+maybe babel/polyfill is located in another folder, depending on your npm version
+
+"node_modules/@babel/polyfill/dist/polyfill.js"
+
+### clone or download Repository
 
 run npm install
 
